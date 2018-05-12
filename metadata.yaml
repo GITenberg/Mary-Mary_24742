@@ -1,0 +1,37 @@
+_repo: Mary-Mary_24742
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Colum, Padraic
+    alias: Collumb, Patrick
+    birthdate: 1881
+    deathdate: 1972
+    gutenberg_agent_id: '893'
+    url: http://www.gutenberg.org/2009/agents/893
+    wikipedia: http://en.wikipedia.org/wiki/Padraic_Colum
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stephens, James
+    alias: Esse, James
+    birthdate: 1882
+    deathdate: 1950
+    gutenberg_agent_id: '670'
+    url: http://www.gutenberg.org/2009/agents/670
+    wikipedia: http://en.wikipedia.org/wiki/James_Stephens
+description: ''
+gutenberg_issued: '2008-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24742'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mothers and daughters -- Fiction'
+- !lcc 'PR'
+title: Mary, Mary
+url: http://www.gutenberg.org/ebooks/24742
